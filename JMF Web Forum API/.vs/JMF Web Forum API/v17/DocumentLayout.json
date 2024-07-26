@@ -1,9 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\James\\Desktop\\JMF Web Forum\\JMF Web Forum API\\",
+  "WorkspaceRootPath": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\desktop\\jmf web forum\\jmf web forum api\\jmf web forum api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\migrations\\20240726124222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\migrations\\20240726124222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\models\\postlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\models\\postlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\source\\repos\\jmf-web-forum\\jmf web forum api\\jmf web forum api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,12 +59,129 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240726124222_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Migrations\\20240726124222_InitialCreate.cs",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\Migrations\\20240726124222_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Migrations\\20240726124222_InitialCreate.cs",
+              "RelativeToolTip": "JMF Web Forum API\\Migrations\\20240726124222_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:42:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostLike.cs",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\PostLike.cs",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\Models\\PostLike.cs",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\PostLike.cs",
+              "RelativeToolTip": "JMF Web Forum API\\Models\\PostLike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:30:35.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostTag.cs",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\PostTag.cs",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\Models\\PostTag.cs",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\PostTag.cs",
+              "RelativeToolTip": "JMF Web Forum API\\Models\\PostTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:30:23.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\Tag.cs",
+              "RelativeToolTip": "JMF Web Forum API\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:30:07.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\Comment.cs",
+              "RelativeToolTip": "JMF Web Forum API\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:29:54.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\Post.cs",
+              "RelativeToolTip": "JMF Web Forum API\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:09:46.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Models\\User.cs",
+              "RelativeToolTip": "JMF Web Forum API\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:05:52.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\appsettings.json",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\appsettings.json",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\appsettings.json",
+              "RelativeToolTip": "JMF Web Forum API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T12:05:07.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "JMF Web Forum API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:59:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\James\\Desktop\\JMF Web Forum\\JMF Web Forum API\\JMF Web Forum API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Program.cs",
               "RelativeDocumentMoniker": "JMF Web Forum API\\Program.cs",
-              "ToolTip": "C:\\Users\\James\\Desktop\\JMF Web Forum\\JMF Web Forum API\\JMF Web Forum API\\Program.cs",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\Program.cs",
               "RelativeToolTip": "JMF Web Forum API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T07:28:59.022Z",
               "EditorCaption": ""

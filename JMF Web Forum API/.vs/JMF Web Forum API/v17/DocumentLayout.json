@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\James\\Desktop\\JMF Web Forum\\JMF Web Forum API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|c:\\users\\james\\desktop\\jmf web forum\\jmf web forum api\\jmf web forum api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6B275-A70B-457B-A07F-9EF392CCEA3D}|JMF Web Forum API\\JMF Web Forum API.csproj|solutionrelative:jmf web forum api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\JMF Web Forum\\JMF Web Forum API\\JMF Web Forum API\\Program.cs",
+              "RelativeDocumentMoniker": "JMF Web Forum API\\Program.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\JMF Web Forum\\JMF Web Forum API\\JMF Web Forum API\\Program.cs",
+              "RelativeToolTip": "JMF Web Forum API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:28:59.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

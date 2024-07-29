@@ -1,0 +1,129 @@
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.AssemblyInfo.cs
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.sourcelink.json
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\appsettings.json
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\JMF Web Forum API.exe
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\JMF Web Forum API.deps.json
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\JMF Web Forum API.runtimeconfig.json
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\JMF Web Forum API.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\JMF Web Forum API.pdb
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\staticwebassets\msbuild.JMF Web Forum API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\staticwebassets\msbuild.build.JMF Web Forum API.props
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JMF Web Forum API.props
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JMF Web Forum API.props
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\scopedcss\bundle\JMF Web Forum API.styles.css
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web .E1C0F371.Up2Date
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\refint\JMF Web Forum API.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.pdb
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.genruntimeconfig.cache
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\ref\JMF Web Forum API.dll

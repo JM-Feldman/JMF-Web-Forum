@@ -1,4 +1,4 @@
-﻿using JMF_Web_Forum_API.Data;
+using JMF_Web_Forum_API.Data;
 using JMF_Web_Forum_API.DTO;
 using JMF_Web_Forum_API.Models;
 using Microsoft.AspNetCore.Authorization;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 [Authorize(Roles = "Moderator")] // Ensure only users with Moderator role can access this controller
 public class PostTagsController : ControllerBase
 {

@@ -1,4 +1,4 @@
-﻿using JMF_Web_Forum_API.Data;
+using JMF_Web_Forum_API.Data;
 using JMF_Web_Forum_API.DTO;
 using JMF_Web_Forum_API.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class PostLikesController : ControllerBase
 {
     private readonly AppDbContext _context;

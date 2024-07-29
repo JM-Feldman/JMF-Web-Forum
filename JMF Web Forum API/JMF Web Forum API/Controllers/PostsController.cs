@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Query.Internal;
 using JMF_Web_Forum_API.Data;
 using Microsoft.EntityFrameworkCore;
@@ -10,7 +10,7 @@ using JMF_Web_Forum_API.Models;
 using JMF_Web_Forum_API.DTO;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class PostsController : ControllerBase
 {
     private readonly AppDbContext _context;

@@ -1,19 +1,41 @@
 <div class="home-container">
-    <h2>Forum Posts</h2>
-    <div class="search-container">
-      <input type="text" placeholder="Search by tag" [(ngModel)]="searchCriteria.tag" (keyup.enter)="searchByTag()">
-      <input type="text" placeholder="Search by author" [(ngModel)]="searchCriteria.author" (keyup.enter)="searchByAuthor()">
-      <input type="text" placeholder="Search by title" [(ngModel)]="searchCriteria.title" (keyup.enter)="searchByTitle()">
-      <input type="text" placeholder="Search by content" [(ngModel)]="searchCriteria.content" (keyup.enter)="searchByContent()">
-    </div>
-    <div class="posts-list">
-      <div *ngFor="let post of posts" class="post-item">
-        <h3>{{ post.title }}</h3>
-        <p>{{ post.content }}</p>
-        <p><strong>Author:</strong> {{ post.user.username }}</p>
-        <p><strong>Tags:</strong> <span *ngFor="let tag of post.postTags">{{ tag.name }}</span></p>
-        <p><strong>Date Posted:</strong> {{ post.datePosted | date }}</p>
+  <div class="header">
+    <button *ngIf="!isLoggedIn" routerLink="/login">Login</button>
+    <button *ngIf="!isLoggedIn" routerLink="/register">Register</button>
+  </div>
+
+  <h2>Forum Posts</h2>
+  <div class="search-container">
+    <input type="text" placeholder="Search by tag" [(ngModel)]="searchCriteria.tag" (keyup.enter)="searchByTag()">
+    <input type="text" placeholder="Search by author" [(ngModel)]="searchCriteria.author" (keyup.enter)="searchByAuthor()">
+    <input type="text" placeholder="Search by title" [(ngModel)]="searchCriteria.title" (keyup.enter)="searchByTitle()">
+    <input type="text" placeholder="Search by content" [(ngModel)]="searchCriteria.content" (keyup.enter)="searchByContent()">
+  </div>
+  <div *ngIf="isLoggedIn" class="new-post-container">
+    <h3>Create New Post</h3>
+    <input type="text" placeholder="Title" [(ngModel)]="newPost.title">
+    <textarea placeholder="Content" [(ngModel)]="newPost.content"></textarea>
+    <input type="text" placeholder="Tags (comma separated)" [(ngModel)]="newPost.tags">
+    <button (click)="createPost()">Post</button>
+  </div>
+  <div class="posts-list">
+    <div *ngFor="let post of posts" class="post-item">
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.content }}</p>
+      <p><strong>Author:</strong> {{ post.user.username }}</p>
+      <p><strong>Tags:</strong> <span *ngFor="let tag of post.postTags">{{ tag.name }}</span></p>
+      <p><strong>Date Posted:</strong> {{ post.datePosted | date }}</p>
+      <div *ngIf="isLoggedIn">
+        <textarea placeholder="Add a comment" [(ngModel)]="commentContent"></textarea>
+        <button (click)="addComment(post.postId)">Comment</button>
+        <button (click)="likeOrDislikePost(post.postId, true)">Like</button>
+        <button (click)="likeOrDislikePost(post.postId, false)">Dislike</button>
+        <div *ngIf="post.user.role === 'Moderator'">
+          <input type="text" placeholder="Add tags (comma separated)" [(ngModel)]="newPost.tags">
+          <button (click)="addTags(post.postId)">Add Tags</button>
+        </div>
       </div>
     </div>
   </div>
-  
+</div>
+

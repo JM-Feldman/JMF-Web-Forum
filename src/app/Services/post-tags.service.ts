@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class PostTagsService {
-  private apiUrl = 'http://your-api-url/api/posttags'; // Replace with your API URL
+  private apiUrl = 'https://localhost:7100/api/posttags';
 
   constructor(private http: HttpClient) {}
 

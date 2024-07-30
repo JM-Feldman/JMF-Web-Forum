@@ -3350,11 +3350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\JMF Web Forum API.csproj",
+      "projectUniqueName": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum UI\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\JMF Web Forum API.csproj",
       "projectName": "JMF Web Forum API",
-      "projectPath": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\JMF Web Forum API.csproj",
+      "projectPath": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum UI\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\JMF Web Forum API.csproj",
       "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\obj\\",
+      "outputPath": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum UI\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -127,3 +127,41 @@ C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\ob
 C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.pdb
 C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\JMF Web Forum API.genruntimeconfig.cache
 C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\obj\Debug\net8.0\ref\JMF Web Forum API.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\James\source\repos\JMF-Web-Forum\JMF Web Forum API\JMF Web Forum API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

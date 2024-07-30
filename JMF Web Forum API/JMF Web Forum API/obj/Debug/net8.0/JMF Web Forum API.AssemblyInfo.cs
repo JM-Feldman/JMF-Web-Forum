@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JMF Web Forum API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be008c58c5396e252f9b06d06784da7b8a749bf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd257aea9f60d4631e2c64c7ba0abe18e872247a")]
 [assembly: System.Reflection.AssemblyProductAttribute("JMF Web Forum API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JMF Web Forum API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

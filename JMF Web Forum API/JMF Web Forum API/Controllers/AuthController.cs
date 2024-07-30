@@ -25,6 +25,7 @@ namespace EventAPI.Controllers
             _context = context;
         }
 
+        //Register a new user
         [HttpPost("register"), AllowAnonymous]
         public ActionResult<LoginResponse> Register(RegisterUserDTO request)
         {
@@ -40,7 +41,7 @@ namespace EventAPI.Controllers
             {
                 Username = request.Username,
                 Password = passwordHash,
-                Userrole = "Customer"
+                Userrole = "User"
             };
 
             _context.Users.Add(newUser);
@@ -61,6 +62,7 @@ namespace EventAPI.Controllers
             return Ok(response);
         }
 
+        //Login an existing user
         [HttpPost("login"), AllowAnonymous]
         public ActionResult<LoginResponse> Login(LoginUserDTO request)
         {
@@ -88,6 +90,7 @@ namespace EventAPI.Controllers
             return Ok(response);
         }
 
+        //Create the User JWT
         private string CreateToken(User user)
         {
             List<Claim> claims = new List<Claim>

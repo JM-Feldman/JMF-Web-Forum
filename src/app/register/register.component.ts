@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, Validators } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { AuthService } from '../Services/auth.service';
 import { Router } from '@angular/router';
@@ -14,9 +14,9 @@ import { CommonModule } from '@angular/common';
 })
 export class RegisterComponent {
   registerData = {
-    username: '',
-    password: '',
-    confirmPassword: ''
+    username: ['', Validators.required],
+    password: ['', Validators.required],
+    confirmPassword: ['', Validators.required]
   };
 
   constructor(private authService: AuthService, private router: Router) {}

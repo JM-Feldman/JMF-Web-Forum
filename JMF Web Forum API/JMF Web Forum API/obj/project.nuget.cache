@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A1zuJVxYbM0=",
+  "dgSpecHash": "G3h/ibXnxWA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\JMF Web Forum API.csproj",
+  "projectFilePath": "C:\\Users\\James\\source\\repos\\JMF-Web-Forum\\JMF Web Forum UI\\JMF-Web-Forum\\JMF Web Forum API\\JMF Web Forum API\\JMF Web Forum API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\James\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\James\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

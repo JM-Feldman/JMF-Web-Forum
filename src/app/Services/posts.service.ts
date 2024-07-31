@@ -1,6 +1,6 @@
-import { Injectable } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
+import { HttpClient } from "@angular/common/http";
+import { Injectable } from "@angular/core";
+import { Observable } from "rxjs";
 
 @Injectable({
   providedIn: 'root'
@@ -29,5 +29,10 @@ export class PostsService {
   searchPostsByContent(content: string): Observable<any[]> {
     return this.http.get<any[]>(`${this.apiUrl}/search/byContent`, { params: { content } });
   }
+
+  createPost(post: any): Observable<any> {
+    return this.http.post<any>(this.apiUrl, post);
+  }
 }
+
 

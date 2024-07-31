@@ -76,4 +76,6 @@ Thumbs.db
 /JMF Web Forum API/JMF Web Forum API/bin/Debug/net8.0/runtimes/win-x86/native/SQLite.Interop.dll
 /JMF Web Forum API/JMF Web Forum API/bin/Debug/net8.0/runtimes/win7-x86/native/sqlite3.dll
 /JMF Web Forum API/JMF Web Forum API/bin/Debug/net8.0/runtimes/win7-x64/native/sqlite3.dll
+JMF Web Forum API/JMF Web Forum API/obj/Debug/net8.0/JMF Web Forum API.assets.cache
+JMF Web Forum API/JMF Web Forum API/obj/Debug/net8.0/JMF Web Forum API.GeneratedMSBuildEditorConfig.editorconfig
 *.vsidx

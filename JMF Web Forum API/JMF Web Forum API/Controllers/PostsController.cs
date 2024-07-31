@@ -25,7 +25,7 @@ public class PostsController : ControllerBase
     public async Task<ActionResult<IEnumerable<Post>>> GetPostsByLatestDate()
     {
         var posts = await _context.Posts
-            .Include(p => p.User)
+            .Include(p => p.User.Username)
             .Include(p => p.PostTags).ThenInclude(pt => pt.Tag)
             .Include(p => p.Comments)
             .OrderByDescending(p => p.DatePosted)
@@ -39,7 +39,7 @@ public class PostsController : ControllerBase
     public async Task<ActionResult<IEnumerable<Post>>> SearchPostsByTags([FromQuery] List<string> tags)
     {
         var posts = await _context.Posts
-            .Include(p => p.User)
+            .Include(p => p.User.Username)
             .Include(p => p.PostTags).ThenInclude(pt => pt.Tag)
             .Include(p => p.Comments)
             .Where(p => p.PostTags.Any(pt => tags.Contains(pt.Tag.Name)))
@@ -53,7 +53,7 @@ public class PostsController : ControllerBase
     public async Task<ActionResult<IEnumerable<Post>>> SearchPostsByAuthor([FromQuery] string author)
     {
         var posts = await _context.Posts
-            .Include(p => p.User)
+            .Include(p => p.User.Username)
             .Include(p => p.PostTags).ThenInclude(pt => pt.Tag)
             .Include(p => p.Comments)
             .Where(p => p.User.Username.Contains(author))
@@ -67,7 +67,7 @@ public class PostsController : ControllerBase
     public async Task<ActionResult<IEnumerable<Post>>> SearchPostsByTitle([FromQuery] string title)
     {
         var posts = await _context.Posts
-            .Include(p => p.User)
+            .Include(p => p.User.Username)
             .Include(p => p.PostTags).ThenInclude(pt => pt.Tag)
             .Include(p => p.Comments)
             .Where(p => p.Title.Contains(title))
@@ -81,7 +81,7 @@ public class PostsController : ControllerBase
     public async Task<ActionResult<IEnumerable<Post>>> SearchPostsByContent([FromQuery] string content)
     {
         var posts = await _context.Posts
-            .Include(p => p.User)
+            .Include(p => p.User.Username)
             .Include(p => p.PostTags).ThenInclude(pt => pt.Tag)
             .Include(p => p.Comments)
             .Where(p => p.Content.Contains(content))
@@ -106,6 +106,7 @@ public class PostsController : ControllerBase
             Content = createPostDto.Content,
             DatePosted = DateTime.UtcNow,
             UserId = createPostDto.UserId,
+            UserName = createPostDto.UserName,
             PostTags = new List<PostTag>()
         };
 
@@ -132,7 +133,7 @@ public class PostsController : ControllerBase
     public async Task<ActionResult<Post>> GetPostById(int id)
     {
         var post = await _context.Posts
-            .Include(p => p.User)
+            .Include(p => p.User.Username)
             .Include(p => p.PostTags).ThenInclude(pt => pt.Tag)
             .Include(p => p.Comments)
             .FirstOrDefaultAsync(p => p.PostId == id);

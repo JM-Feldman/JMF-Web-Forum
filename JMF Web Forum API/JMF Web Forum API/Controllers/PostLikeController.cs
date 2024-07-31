@@ -28,7 +28,7 @@ public class PostLikesController : ControllerBase
         }
 
         var post = await _context.Posts
-            .Include(p => p.User) // Include the author of the post
+            .Include(p => p.UserName) // Include the author of the post
             .FirstOrDefaultAsync(p => p.PostId == createPostLikeDto.PostId);
 
         if (post == null)

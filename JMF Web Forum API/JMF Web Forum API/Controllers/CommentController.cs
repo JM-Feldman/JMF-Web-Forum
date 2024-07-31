@@ -49,20 +49,31 @@ public class CommentsController : ControllerBase
         return CreatedAtAction(nameof(GetCommentById), new { id = newComment.CommentId }, newComment);
     }
 
-    //Get comment by ID
-    [HttpGet("{id}")]
-    public async Task<ActionResult<Comment>> GetCommentById(int id)
-    {
-        var comment = await _context.Comments
-            .Include(c => c.User)
-            .Include(c => c.Post)
-            .FirstOrDefaultAsync(c => c.PostId == id);
-
-        if (comment == null)
+  //Get comment by ID
+  [HttpGet("{id}")]
+  public async Task<ActionResult<CommentDTO>> GetCommentById(int id)
+  {
+    var comment = await _context.Comments
+        .Include(c => c.User)
+        .Include(c => c.Post)
+        .Where(c => c.CommentId == id)
+        .Select(c => new CommentDTO
         {
-            return NotFound();
-        }
+          CommentId = c.CommentId,
+          Content = c.Content,
+          DatePosted = c.DatePosted,
+          UserId = c.User.UserId,
+          UserName = c.User.Username,
+          PostId = c.Post.PostId,
+          PostTitle = c.Post.Title
+        })
+        .FirstOrDefaultAsync();
 
-        return Ok(comment);
+    if (comment == null)
+    {
+      return NotFound();
     }
+
+    return Ok(comment);
+  }
 }

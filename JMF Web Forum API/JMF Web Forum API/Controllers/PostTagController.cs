@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 [ApiController]
 [Route("api/[controller]")]
-[Authorize(Roles = "Moderator")] // Ensure only users with Moderator role can access this controller
+[Authorize(Roles = "Moderator")] //Ensure only users with Moderator role can access this controller
 public class PostTagsController : ControllerBase
 {
     private readonly AppDbContext _context;
@@ -20,7 +20,7 @@ public class PostTagsController : ControllerBase
         _context = context;
     }
 
-    // Add tags to a post
+    //Add tags to a post
     [HttpPost("add")]
     public async Task<ActionResult> AddTagsToPost([FromBody] AddTagsDTO addTagsDto)
     {
@@ -54,7 +54,7 @@ public class PostTagsController : ControllerBase
         return Ok();
     }
 
-    // Remove tags from a post
+    //Remove tags from a post
     [HttpPost("remove")]
     public async Task<ActionResult> RemoveTagsFromPost([FromBody] RemoveTagsDTO removeTagsDto)
     {
